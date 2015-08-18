@@ -1,0 +1,12 @@
+<div class="row">
+  <div class="col-sm-12">
+    <h2>{{product.name}}</h2>
+    <p>{{product.price | currency }}</p>
+    <p>{{product.description}}</p>
+    <p><a class="btn btn-default" href="#/products/{{product.id}}/edit" role="button">Edit &raquo;</a></p>
+    <p><a class="btn btn-default" ng-click="delete(product.id)" role="button">Delete &raquo;</a></p>
+  </div>
+</div>
+
+
+
