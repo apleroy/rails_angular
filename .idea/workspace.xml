@@ -85,11 +85,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ngapp/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="630">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.085910656" vertical-offset="0" max-vertical-offset="873">
+              <caret line="5" column="7" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -115,10 +115,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".buildpacks" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".buildpacks" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.buildpacks">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="897">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
               <caret line="0" column="68" selection-start-line="0" selection-start-column="68" selection-end-line="0" selection-end-column="68" />
               <folding />
             </state>
@@ -142,9 +142,9 @@
         <option value="$PROJECT_DIR$/ngapp/app/scripts/controllers/product.js" />
         <option value="$PROJECT_DIR$/ngapp/test/spec/controllers/product.js" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
-        <option value="$PROJECT_DIR$/ngapp/package.json" />
         <option value="$PROJECT_DIR$/ngapp/Gruntfile.js" />
         <option value="$PROJECT_DIR$/.buildpacks" />
+        <option value="$PROJECT_DIR$/ngapp/package.json" />
       </list>
     </option>
   </component>
@@ -638,14 +638,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ngapp/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="630">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ngapp/Gruntfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7635">
@@ -658,6 +650,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="897">
           <caret line="0" column="68" selection-start-line="0" selection-start-column="68" selection-end-line="0" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ngapp/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.085910656" vertical-offset="0" max-vertical-offset="873">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="7" />
           <folding />
         </state>
       </provider>
