@@ -1,5 +1,7 @@
 RailsAngularCommerce::Application.routes.draw do
 
+  get '/', to: redirect('/')
+
   resources :products, path: 'api/products'
 
   get "api/ping" => "application#ping"
