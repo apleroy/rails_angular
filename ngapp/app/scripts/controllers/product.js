@@ -41,8 +41,6 @@ angular.module('notesApp')
         $location.path('/products/' + $routeParams.productId);
       };
 
-
     });
-
 
   });
