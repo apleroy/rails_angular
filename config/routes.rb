@@ -1,6 +1,6 @@
 RailsAngularCommerce::Application.routes.draw do
 
-  get '/', to: redirect('/')
+  #get '/', to: redirect('/')
 
   resources :products, path: 'api/products'
 

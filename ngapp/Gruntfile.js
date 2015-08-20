@@ -9,7 +9,7 @@
 
 module.exports = function (grunt) {
 
-  grunt.registerTask('heroku:production', 'build'); //http://www.angularonrails.com/deploy-angular-rails-single-page-application-heroku/
+  //grunt.registerTask('heroku:production', 'build'); //http://www.angularonrails.com/deploy-angular-rails-single-page-application-heroku/
 
   // Load grunt tasks automatically
   require('load-grunt-tasks')(grunt);
